@@ -1,4 +1,4 @@
-# [PointCleanNet](http://www.lix.polytechnique.fr/Labo/Marie-Julie.RAKOTOSAONA/pointcleannet.html)
+# [PointCleanNet]
 This is our implementation of PointCleannet, a network removes outliers and reduces noise in unordered point clouds.
 
 
