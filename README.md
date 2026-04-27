@@ -11,8 +11,8 @@ pip install tensorflow-gpu==1.12
 pip install point-cloud-utils==0.31.0
 ```
 
-## Dataset
-Download the Dataset directory from: https://www.dropbox.com/sh/nwdlzgnt987yjma/AAAi8q0E6yioxk5I_BkUpZE5a?dl=0
+## 数据
+把数据文件夹命名为Datasets，然后放在根目录下
 
 ## 训练
 ```
