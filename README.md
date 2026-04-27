@@ -3,8 +3,8 @@
 
 ## 环境配置
 ```
-conda create -n myenv python=3.9
-conda activate myenv
+conda create -n StraightPCF python=3.9
+conda activate StraightPCF
 conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 conda install -c fvcore -c iopath -c conda-forge fvcore iopath
 conda install -c bottler nvidiacub
