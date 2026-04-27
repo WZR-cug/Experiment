@@ -68,6 +68,3 @@ python train.py --loss_ds None --loss_rec unsupervised
 python denoise.py --input <input_xyz> --output <output_xyz> --ckpt ./pretrained/supervised/epoch=153.ckpt
 ```
 
-
-
-W
