@@ -11,8 +11,10 @@ pip install scipy
 pip install tensorboardX
 ```
 
+## 数据
+将待测试的数据集放在/data文件夹里
+
 ## 下载预训练模型
-Download pretrained models:
 ``` bash
 cd models
 python download_models.py --task denoising
