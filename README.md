@@ -15,7 +15,7 @@ python setup.py install
 ```
 
 ## 数据
-在根目录下创建一个Dataset文件夹，把待测数据放在里面
+把待测数据放在Dataset文件夹里面
 
 
 ## 训练
