@@ -12,7 +12,7 @@ pip install point-cloud-utils==0.31.0
 ```
 
 ## 数据
-把数据文件夹命名为Datasets，然后放在根目录下
+把数据文件夹命名为Dataset，然后放在根目录下
 
 ## 训练
 ```
