@@ -26,7 +26,6 @@ python models/deflow/train_deflow_score.py
 
 ## 测试
 注意替换名称:
-去噪
 ```bash
 python models/deflow/denoise.py \
     --input=path/to/input_directory \
