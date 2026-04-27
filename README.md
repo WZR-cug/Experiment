@@ -22,6 +22,7 @@ python download_models.py --task outliers_removal
 ```
 ## 训练
 ``` bash
+cd noise_removal
 python train_pcpnet.py
 ```
 
