@@ -1,13 +1,15 @@
 # GPDNet-ECCV2020
 源代码：https://github.com/diegovalsesia/GPDNet
 
-# Requirements
-- Python 2.7
-- Tensorflow 1.12 with CUDA 9.0 (warning: later versions of tensorflow/cuda might have numerical issues)
-- point_cloud_utils (https://github.com/fwilliams/point-cloud-utils)
-- h5py
-- numpy
-- scipy
+## 环境配置
+```
+conda create -n GPDNet python=2.7
+pip install numpy
+pip install scipy
+pip install h5py
+pip install tensorflow-gpu==1.12
+pip install point-cloud-utils==0.31.0
+```
 
 # Code structure
 Code/ : Python source code for training/testing and the network model
