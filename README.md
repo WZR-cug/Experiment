@@ -27,6 +27,7 @@ python train_pcpnet.py
 ```
 
 ## 测试
+注意要将run.sh文件里命令行的数据名称和待测数据保持一致
 ``` bash
 cd noise_removal
 mkdir results
